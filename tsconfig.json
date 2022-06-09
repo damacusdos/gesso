@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "module": "CommonJs",
+    "target": "ES5",
+    "jsx":"react",
+    "allowJs": true
+  },
+  "include": ["./src/"]
+}
