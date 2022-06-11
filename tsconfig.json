@@ -4,7 +4,9 @@
     "module": "CommonJs",
     "target": "ES5",
     "jsx":"react",
-    "allowJs": true
+    "allowJs": true,
+    "types": ["react/next", "react-dom/next"],
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["./src/"]
 }
